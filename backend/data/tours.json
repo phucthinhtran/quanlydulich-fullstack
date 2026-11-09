@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "6af1f69d9bebee3cce06ff38"
+  },
+  "title": "Khám phá Đà Lạt 3 ngày 2 đêm",
+  "description": "Hành trình tham quan và trải nghiệm tại Đà Lạt.",
+  "price": 2490000,
+  "locations": [
+    "Đà Lạt"
+  ],
+  "duration": "3 ngày 2 đêm",
+  "images": [],
+  "maxPeople": 25,
+  "availableSlots": 25,
+  "schedule": [
+    {
+      "day": 1,
+      "content": "Tham quan hồ Xuân Hương và quảng trường Lâm Viên"
+    },
+    {
+      "day": 2,
+      "content": "Khám phá thác Datanla và vườn hoa"
+    },
+    {
+      "day": 3,
+      "content": "Tham quan đồi chè Cầu Đất"
+    }
+  ],
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6af1f69d9bebee3cce06ff39"
+  },
+  "title": "Nghỉ dưỡng Phú Quốc 4 ngày 3 đêm",
+  "description": "Hành trình tham quan và trải nghiệm tại Phú Quốc.",
+  "price": 4590000,
+  "locations": [
+    "Phú Quốc"
+  ],
+  "duration": "4 ngày 3 đêm",
+  "images": [],
+  "maxPeople": 25,
+  "availableSlots": 25,
+  "schedule": [
+    {
+      "day": 1,
+      "content": "Đón khách và tham quan Dinh Cậu"
+    },
+    {
+      "day": 2,
+      "content": "Khám phá đảo và bãi biển"
+    },
+    {
+      "day": 3,
+      "content": "Trải nghiệm chợ đêm Phú Quốc"
+    },
+    {
+      "day": 4,
+      "content": "Tự do mua sắm và kết thúc"
+    }
+  ],
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6af1f69d9bebee3cce06ff3a"
+  },
+  "title": "Khám phá Hội An 2 ngày 1 đêm",
+  "description": "Hành trình tham quan và trải nghiệm tại Hội An.",
+  "price": 1590000,
+  "locations": [
+    "Hội An"
+  ],
+  "duration": "2 ngày 1 đêm",
+  "images": [],
+  "maxPeople": 25,
+  "availableSlots": 25,
+  "schedule": [
+    {
+      "day": 1,
+      "content": "Dạo phố cổ và tham quan Chùa Cầu"
+    },
+    {
+      "day": 2,
+      "content": "Khám phá làng nghề và kết thúc"
+    }
+  ],
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6af1f69d9bebee3cce06ff3b"
+  },
+  "title": "Du ngoạn Hạ Long 3 ngày 2 đêm",
+  "description": "Hành trình tham quan và trải nghiệm tại Hạ Long.",
+  "price": 3890000,
+  "locations": [
+    "Hạ Long"
+  ],
+  "duration": "3 ngày 2 đêm",
+  "images": [],
+  "maxPeople": 25,
+  "availableSlots": 25,
+  "schedule": [
+    {
+      "day": 1,
+      "content": "Tham quan vịnh Hạ Long"
+    },
+    {
+      "day": 2,
+      "content": "Khám phá hang động và trải nghiệm du thuyền"
+    },
+    {
+      "day": 3,
+      "content": "Tham quan và kết thúc"
+    }
+  ],
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6af1f69d9bebee3cce06ff3c"
+  },
+  "title": "Du lịch Nha Trang 3 ngày 2 đêm",
+  "description": "Hành trình tham quan và trải nghiệm tại Nha Trang.",
+  "price": 2990000,
+  "locations": [
+    "Nha Trang"
+  ],
+  "duration": "3 ngày 2 đêm",
+  "images": [],
+  "maxPeople": 25,
+  "availableSlots": 25,
+  "schedule": [
+    {
+      "day": 1,
+      "content": "Tham quan thành phố biển"
+    },
+    {
+      "day": 2,
+      "content": "Trải nghiệm các đảo"
+    },
+    {
+      "day": 3,
+      "content": "Tham quan và kết thúc"
+    }
+  ],
+  "rating": 0
+},
+{
+  "_id": {
+    "$oid": "6af1f69d9bebee3cce06ff3d"
+  },
+  "title": "Khám phá Sa Pa 3 ngày 2 đêm",
+  "description": "Hành trình tham quan và trải nghiệm tại Sa Pa.",
+  "price": 3290000,
+  "locations": [
+    "Sa Pa"
+  ],
+  "duration": "3 ngày 2 đêm",
+  "images": [],
+  "maxPeople": 25,
+  "availableSlots": 25,
+  "schedule": [
+    {
+      "day": 1,
+      "content": "Tham quan thị trấn Sa Pa"
+    },
+    {
+      "day": 2,
+      "content": "Khám phá bản Cát Cát"
+    },
+    {
+      "day": 3,
+      "content": "Tham quan và kết thúc"
+    }
+  ],
+  "rating": 0
+}]
